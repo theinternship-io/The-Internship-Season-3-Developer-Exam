@@ -1,4 +1,4 @@
-# # The Internship Season 3 : Developer Exam
+# The Internship Season 3 : Developer Exam
 # [ตอนที่ 1]
 ให้ผู้สมัครเขียนโปรแกรมต่อไปนี้โดยใช้ภาษาโปรแกรมอะไรก็ได้ (สามารถทำได้มากกว่า 1 ภาษา แต่ไม่
 เกิน 3 ภาษา/ข้อ)
